@@ -1,0 +1,1558 @@
+{
+    "bout": [
+        {
+            "studentID": "s11",
+            "transcription": "boats",
+            "confidence": 0.284
+        },
+        {
+            "studentID": "s13",
+            "transcription": "mode",
+            "confidence": 0.226
+        },
+        {
+            "studentID": "s14",
+            "transcription": "but",
+            "confidence": 0.297
+        },
+        {
+            "studentID": "s19",
+            "transcription": "boat",
+            "confidence": 0.212
+        },
+        {
+            "studentID": "s29",
+            "transcription": "both",
+            "confidence": 0.235
+        },
+        {
+            "studentID": "s36",
+            "transcription": "bullock",
+            "confidence": 0.285
+        },
+        {
+            "studentID": "s39",
+            "transcription": "but",
+            "confidence": 0.217
+        },
+        {
+            "studentID": "s40",
+            "transcription": "bald",
+            "confidence": 0.19
+        },
+        {
+            "studentID": "s41",
+            "transcription": "boot",
+            "confidence": 0.192
+        },
+        {
+            "studentID": "s49",
+            "transcription": "when were in the bag were going to take a look at where we are and were going to",
+            "confidence": 0.143
+        },
+        {
+            "studentID": "s50",
+            "transcription": "good good good good good good proactive good good good good good good good good good good good good good good good good good good good good good good",
+            "confidence": 0
+        },
+        {
+            "studentID": "s51",
+            "transcription": "bowt",
+            "confidence": 0.241
+        }
+    ],
+    "fir": [
+        {
+            "studentID": "s11",
+            "transcription": "here",
+            "confidence": 0.293
+        },
+        {
+            "studentID": "s16",
+            "transcription": "say it",
+            "confidence": 0.205
+        },
+        {
+            "studentID": "s18",
+            "transcription": "fear",
+            "confidence": 0.167
+        },
+        {
+            "studentID": "s25",
+            "transcription": "freedom",
+            "confidence": 0.259
+        },
+        {
+            "studentID": "s26",
+            "transcription": "fool",
+            "confidence": 0.191
+        },
+        {
+            "studentID": "s28",
+            "transcription": "i feel",
+            "confidence": 0.237
+        },
+        {
+            "studentID": "s31",
+            "transcription": "feel",
+            "confidence": 0.173
+        },
+        {
+            "studentID": "s49",
+            "transcription": "clear",
+            "confidence": 0.235
+        },
+        {
+            "studentID": "s51",
+            "transcription": "few",
+            "confidence": 0.211
+        }
+    ],
+    "pull": [
+        {
+            "studentID": "s11",
+            "transcription": "okay cool",
+            "confidence": 0
+        },
+        {
+            "studentID": "s17",
+            "transcription": "pull",
+            "confidence": 0.535
+        },
+        {
+            "studentID": "s18",
+            "transcription": "oh look",
+            "confidence": 0.293
+        },
+        {
+            "studentID": "s19",
+            "transcription": "boom",
+            "confidence": 0.295
+        },
+        {
+            "studentID": "s21",
+            "transcription": "whole",
+            "confidence": 0.171
+        },
+        {
+            "studentID": "s22",
+            "transcription": "pull",
+            "confidence": 0.319
+        },
+        {
+            "studentID": "s24",
+            "transcription": "polloon",
+            "confidence": 0.194
+        },
+        {
+            "studentID": "s29",
+            "transcription": "oh",
+            "confidence": 0.216
+        },
+        {
+            "studentID": "s30",
+            "transcription": "pool",
+            "confidence": 0.235
+        },
+        {
+            "studentID": "s33",
+            "transcription": "pooo",
+            "confidence": 0.204
+        },
+        {
+            "studentID": "s37",
+            "transcription": "pull",
+            "confidence": 0.406
+        },
+        {
+            "studentID": "s41",
+            "transcription": "phew",
+            "confidence": 0.191
+        },
+        {
+            "studentID": "s42",
+            "transcription": "bye",
+            "confidence": 0.23
+        },
+        {
+            "studentID": "s43",
+            "transcription": "bull",
+            "confidence": 0.252
+        },
+        {
+            "studentID": "s45",
+            "transcription": "all",
+            "confidence": 0.265
+        },
+        {
+            "studentID": "s47",
+            "transcription": "poudin",
+            "confidence": 0.196
+        },
+        {
+            "studentID": "s48",
+            "transcription": "bone",
+            "confidence": 0.255
+        }
+    ],
+    "bard": [
+        {
+            "studentID": "s12",
+            "transcription": "brought",
+            "confidence": 0.225
+        },
+        {
+            "studentID": "s16",
+            "transcription": "bot",
+            "confidence": 0.261
+        },
+        {
+            "studentID": "s27",
+            "transcription": "bog",
+            "confidence": 0.289
+        },
+        {
+            "studentID": "s33",
+            "transcription": "baudhoo",
+            "confidence": 0.181
+        },
+        {
+            "studentID": "s45",
+            "transcription": "bar",
+            "confidence": 0.175
+        }
+    ],
+    "board": [
+        {
+            "studentID": "s12",
+            "transcription": "board",
+            "confidence": 0.404
+        },
+        {
+            "studentID": "s15",
+            "transcription": "board",
+            "confidence": 0.618
+        },
+        {
+            "studentID": "s16",
+            "transcription": "bye",
+            "confidence": 0.276
+        },
+        {
+            "studentID": "s23",
+            "transcription": "board",
+            "confidence": 0.819
+        },
+        {
+            "studentID": "s27",
+            "transcription": "look",
+            "confidence": 0.154
+        },
+        {
+            "studentID": "s28",
+            "transcription": "board",
+            "confidence": 0.396
+        },
+        {
+            "studentID": "s30",
+            "transcription": "bored",
+            "confidence": 0.272
+        },
+        {
+            "studentID": "s33",
+            "transcription": "bun",
+            "confidence": 0.194
+        },
+        {
+            "studentID": "s40",
+            "transcription": "mil",
+            "confidence": 0.108
+        },
+        {
+            "studentID": "s46",
+            "transcription": "board",
+            "confidence": 0.485
+        }
+    ],
+    "city": [
+        {
+            "studentID": "s12",
+            "transcription": "ct",
+            "confidence": 0.249
+        },
+        {
+            "studentID": "s33",
+            "transcription": "city",
+            "confidence": 0.643
+        },
+        {
+            "studentID": "s34",
+            "transcription": "city",
+            "confidence": 0.248
+        },
+        {
+            "studentID": "s41",
+            "transcription": "city",
+            "confidence": 0.438
+        },
+        {
+            "studentID": "s43",
+            "transcription": "cpt",
+            "confidence": 0.155
+        },
+        {
+            "studentID": "s47",
+            "transcription": "city",
+            "confidence": 0.33
+        },
+        {
+            "studentID": "s51",
+            "transcription": "city",
+            "confidence": 0.888
+        }
+    ],
+    "poor": [
+        {
+            "studentID": "s12",
+            "transcription": "okay",
+            "confidence": 0.215
+        },
+        {
+            "studentID": "s16",
+            "transcription": "four",
+            "confidence": 0.183
+        },
+        {
+            "studentID": "s18",
+            "transcription": "one two two two one two two two two two two two two two two two two two two two two two two two two two two two two",
+            "confidence": 0
+        },
+        {
+            "studentID": "s23",
+            "transcription": "poor",
+            "confidence": 0.304
+        },
+        {
+            "studentID": "s27",
+            "transcription": "were",
+            "confidence": 0.272
+        },
+        {
+            "studentID": "s33",
+            "transcription": "phew",
+            "confidence": 0.297
+        },
+        {
+            "studentID": "s41",
+            "transcription": "poo",
+            "confidence": 0.203
+        }
+    ],
+    "pore": [
+        {
+            "studentID": "s12",
+            "transcription": "two",
+            "confidence": 0.219
+        },
+        {
+            "studentID": "s13",
+            "transcription": "pop",
+            "confidence": 0.262
+        },
+        {
+            "studentID": "s16",
+            "transcription": "paul",
+            "confidence": 0.214
+        },
+        {
+            "studentID": "s27",
+            "transcription": "okay okay okay okay gotcha okay okay okay okay okay okay okay okay okay okay okay okay okay yeah okay okay okay okay okay okay okay",
+            "confidence": 0
+        },
+        {
+            "studentID": "s35",
+            "transcription": "board",
+            "confidence": 0.225
+        },
+        {
+            "studentID": "s37",
+            "transcription": "poor",
+            "confidence": 0.283
+        },
+        {
+            "studentID": "s48",
+            "transcription": "wow",
+            "confidence": 0.268
+        }
+    ],
+    "pour": [
+        {
+            "studentID": "s12",
+            "transcription": "cool",
+            "confidence": 0.282
+        },
+        {
+            "studentID": "s16",
+            "transcription": "court",
+            "confidence": 0.08
+        },
+        {
+            "studentID": "s27",
+            "transcription": "okay okay okay so i think im going to go ahead and okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay",
+            "confidence": 0
+        },
+        {
+            "studentID": "s33",
+            "transcription": "home",
+            "confidence": 0.191
+        },
+        {
+            "studentID": "s35",
+            "transcription": "boar",
+            "confidence": 0.209
+        }
+    ],
+    "bird": [
+        {
+            "studentID": "s13",
+            "transcription": "beard",
+            "confidence": 0.177
+        },
+        {
+            "studentID": "s16",
+            "transcription": "back",
+            "confidence": 0.132
+        },
+        {
+            "studentID": "s17",
+            "transcription": "next",
+            "confidence": 0.084
+        },
+        {
+            "studentID": "s23",
+            "transcription": "bird",
+            "confidence": 0.738
+        },
+        {
+            "studentID": "s27",
+            "transcription": "its",
+            "confidence": 0.093
+        },
+        {
+            "studentID": "s32",
+            "transcription": "right",
+            "confidence": 0.186
+        },
+        {
+            "studentID": "s40",
+            "transcription": "built",
+            "confidence": 0.183
+        },
+        {
+            "studentID": "s42",
+            "transcription": "there",
+            "confidence": 0.221
+        },
+        {
+            "studentID": "s44",
+            "transcription": "that",
+            "confidence": 0.279
+        },
+        {
+            "studentID": "s45",
+            "transcription": "beer",
+            "confidence": 0.281
+        },
+        {
+            "studentID": "s49",
+            "transcription": "im glad youre here",
+            "confidence": 0.17
+        }
+    ],
+    "fur": [
+        {
+            "studentID": "s13",
+            "transcription": "four",
+            "confidence": 0.159
+        },
+        {
+            "studentID": "s18",
+            "transcription": "five",
+            "confidence": 0.271
+        },
+        {
+            "studentID": "s25",
+            "transcription": "boom",
+            "confidence": 0.256
+        },
+        {
+            "studentID": "s27",
+            "transcription": "ha",
+            "confidence": 0.259
+        },
+        {
+            "studentID": "s31",
+            "transcription": "food",
+            "confidence": 0.168
+        },
+        {
+            "studentID": "s32",
+            "transcription": "far",
+            "confidence": 0.183
+        },
+        {
+            "studentID": "s36",
+            "transcription": "ha",
+            "confidence": 0.13
+        },
+        {
+            "studentID": "s40",
+            "transcription": "fuel",
+            "confidence": 0.183
+        },
+        {
+            "studentID": "s44",
+            "transcription": "fan",
+            "confidence": 0.233
+        },
+        {
+            "studentID": "s45",
+            "transcription": "sorry",
+            "confidence": 0.25
+        },
+        {
+            "studentID": "s46",
+            "transcription": "okay",
+            "confidence": 0.214
+        },
+        {
+            "studentID": "s47",
+            "transcription": "were going to be doing it for four",
+            "confidence": 0.13
+        },
+        {
+            "studentID": "s48",
+            "transcription": "far",
+            "confidence": 0.187
+        },
+        {
+            "studentID": "s51",
+            "transcription": "fall",
+            "confidence": 0.287
+        }
+    ],
+    "paw": [
+        {
+            "studentID": "s13",
+            "transcription": "pause",
+            "confidence": 0.228
+        },
+        {
+            "studentID": "s19",
+            "transcription": "ball",
+            "confidence": 0.28
+        },
+        {
+            "studentID": "s30",
+            "transcription": "pa",
+            "confidence": 0.242
+        },
+        {
+            "studentID": "s31",
+            "transcription": "bow",
+            "confidence": 0.236
+        },
+        {
+            "studentID": "s33",
+            "transcription": "po",
+            "confidence": 0.141
+        },
+        {
+            "studentID": "s46",
+            "transcription": "pooh",
+            "confidence": 0.217
+        },
+        {
+            "studentID": "s47",
+            "transcription": "bow",
+            "confidence": 0.155
+        },
+        {
+            "studentID": "s48",
+            "transcription": "ah",
+            "confidence": 0.181
+        },
+        {
+            "studentID": "s49",
+            "transcription": "im sorry about that bye okay its going to be a little bit more fun okay okay all right all right wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow",
+            "confidence": 0
+        },
+        {
+            "studentID": "s50",
+            "transcription": "how",
+            "confidence": 0
+        }
+    ],
+    "pet": [
+        {
+            "studentID": "s13",
+            "transcription": "pat",
+            "confidence": 0.293
+        },
+        {
+            "studentID": "s19",
+            "transcription": "its",
+            "confidence": 0.256
+        },
+        {
+            "studentID": "s25",
+            "transcription": "that",
+            "confidence": 0.112
+        },
+        {
+            "studentID": "s35",
+            "transcription": "big",
+            "confidence": 0.076
+        },
+        {
+            "studentID": "s43",
+            "transcription": "beth beth beth",
+            "confidence": 0
+        },
+        {
+            "studentID": "s44",
+            "transcription": "thank you",
+            "confidence": 0.218
+        },
+        {
+            "studentID": "s47",
+            "transcription": "bent",
+            "confidence": 0.168
+        }
+    ],
+    "putt": [
+        {
+            "studentID": "s13",
+            "transcription": "put",
+            "confidence": 0.239
+        },
+        {
+            "studentID": "s17",
+            "transcription": "thoughts",
+            "confidence": 0.277
+        },
+        {
+            "studentID": "s29",
+            "transcription": "",
+            "confidence": 0
+        },
+        {
+            "studentID": "s30",
+            "transcription": "put",
+            "confidence": 0.289
+        },
+        {
+            "studentID": "s35",
+            "transcription": "put",
+            "confidence": 0.163
+        },
+        {
+            "studentID": "s39",
+            "transcription": "good",
+            "confidence": 0.281
+        },
+        {
+            "studentID": "s41",
+            "transcription": "but",
+            "confidence": 0.133
+        },
+        {
+            "studentID": "s43",
+            "transcription": "",
+            "confidence": 0
+        },
+        {
+            "studentID": "s45",
+            "transcription": "both",
+            "confidence": 0.29
+        },
+        {
+            "studentID": "s47",
+            "transcription": "put",
+            "confidence": 0.281
+        },
+        {
+            "studentID": "s51",
+            "transcription": "bye",
+            "confidence": 0.277
+        }
+    ],
+    "pit": [
+        {
+            "studentID": "s14",
+            "transcription": "beat",
+            "confidence": 0.268
+        },
+        {
+            "studentID": "s19",
+            "transcription": "beach",
+            "confidence": 0.122
+        },
+        {
+            "studentID": "s28",
+            "transcription": "thank you",
+            "confidence": 0.171
+        },
+        {
+            "studentID": "s29",
+            "transcription": "thank you",
+            "confidence": 0.29
+        },
+        {
+            "studentID": "s30",
+            "transcription": "bit",
+            "confidence": 0.212
+        },
+        {
+            "studentID": "s35",
+            "transcription": "bitro",
+            "confidence": 0.154
+        },
+        {
+            "studentID": "s37",
+            "transcription": "",
+            "confidence": 0
+        },
+        {
+            "studentID": "s40",
+            "transcription": "pete",
+            "confidence": 0.224
+        },
+        {
+            "studentID": "s43",
+            "transcription": "",
+            "confidence": 0
+        },
+        {
+            "studentID": "s44",
+            "transcription": "good",
+            "confidence": 0.287
+        },
+        {
+            "studentID": "s47",
+            "transcription": "bit",
+            "confidence": 0.189
+        },
+        {
+            "studentID": "s49",
+            "transcription": "theme",
+            "confidence": 0.256
+        }
+    ],
+    "father": [
+        {
+            "studentID": "s15",
+            "transcription": "father",
+            "confidence": 0.45
+        },
+        {
+            "studentID": "s34",
+            "transcription": "father",
+            "confidence": 0.804
+        },
+        {
+            "studentID": "s51",
+            "transcription": "father",
+            "confidence": 0.282
+        }
+    ],
+    "bear": [
+        {
+            "studentID": "s16",
+            "transcription": "there",
+            "confidence": 0.242
+        },
+        {
+            "studentID": "s17",
+            "transcription": "boom",
+            "confidence": 0.202
+        },
+        {
+            "studentID": "s18",
+            "transcription": "there you go well see you in a minute bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye",
+            "confidence": 0
+        },
+        {
+            "studentID": "s24",
+            "transcription": "thank you thank you have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good dayrous have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day have a good day",
+            "confidence": 0
+        },
+        {
+            "studentID": "s27",
+            "transcription": "okay okay okay good okay okay okay",
+            "confidence": 0
+        },
+        {
+            "studentID": "s35",
+            "transcription": "beer",
+            "confidence": 0.177
+        },
+        {
+            "studentID": "s36",
+            "transcription": "beya",
+            "confidence": 0.191
+        },
+        {
+            "studentID": "s40",
+            "transcription": "biren",
+            "confidence": 0.221
+        },
+        {
+            "studentID": "s44",
+            "transcription": "bad",
+            "confidence": 0.257
+        },
+        {
+            "studentID": "s46",
+            "transcription": "bear",
+            "confidence": 0.257
+        },
+        {
+            "studentID": "s51",
+            "transcription": "bear",
+            "confidence": 0.361
+        }
+    ],
+    "beer": [
+        {
+            "studentID": "s16",
+            "transcription": "be it",
+            "confidence": 0
+        },
+        {
+            "studentID": "s23",
+            "transcription": "beer",
+            "confidence": 0.808
+        },
+        {
+            "studentID": "s26",
+            "transcription": "be a",
+            "confidence": 0.28
+        },
+        {
+            "studentID": "s40",
+            "transcription": "beer",
+            "confidence": 0.282
+        },
+        {
+            "studentID": "s45",
+            "transcription": "beer",
+            "confidence": 0.763
+        },
+        {
+            "studentID": "s46",
+            "transcription": "be",
+            "confidence": 0.214
+        }
+    ],
+    "boot": [
+        {
+            "studentID": "s16",
+            "transcription": "point",
+            "confidence": 0.256
+        },
+        {
+            "studentID": "s18",
+            "transcription": "wood",
+            "confidence": 0.258
+        },
+        {
+            "studentID": "s31",
+            "transcription": "more",
+            "confidence": 0.151
+        },
+        {
+            "studentID": "s43",
+            "transcription": "both",
+            "confidence": 0.243
+        },
+        {
+            "studentID": "s45",
+            "transcription": "and back",
+            "confidence": 0.217
+        }
+    ],
+    "fair": [
+        {
+            "studentID": "s16",
+            "transcription": "thank you",
+            "confidence": 0.246
+        },
+        {
+            "studentID": "s18",
+            "transcription": "yeah",
+            "confidence": 0.221
+        },
+        {
+            "studentID": "s30",
+            "transcription": "fair",
+            "confidence": 0.523
+        },
+        {
+            "studentID": "s36",
+            "transcription": "i feel",
+            "confidence": 0.129
+        },
+        {
+            "studentID": "s40",
+            "transcription": "feel",
+            "confidence": 0.224
+        },
+        {
+            "studentID": "s44",
+            "transcription": "fair",
+            "confidence": 0.227
+        },
+        {
+            "studentID": "s46",
+            "transcription": "yeah",
+            "confidence": 0.024
+        }
+    ],
+    "tide": [
+        {
+            "studentID": "s16",
+            "transcription": "time",
+            "confidence": 0.23
+        },
+        {
+            "studentID": "s21",
+            "transcription": "tight",
+            "confidence": 0.221
+        },
+        {
+            "studentID": "s22",
+            "transcription": "bye",
+            "confidence": 0.114
+        },
+        {
+            "studentID": "s35",
+            "transcription": "time",
+            "confidence": 0.228
+        },
+        {
+            "studentID": "s40",
+            "transcription": "team",
+            "confidence": 0.149
+        },
+        {
+            "studentID": "s43",
+            "transcription": "im tired",
+            "confidence": 0.238
+        },
+        {
+            "studentID": "s49",
+            "transcription": "steve",
+            "confidence": 0.206
+        }
+    ],
+    "fern": [
+        {
+            "studentID": "s17",
+            "transcription": "thanks",
+            "confidence": 0.254
+        },
+        {
+            "studentID": "s18",
+            "transcription": "phone",
+            "confidence": 0.237
+        },
+        {
+            "studentID": "s27",
+            "transcription": "sure",
+            "confidence": 0.24
+        },
+        {
+            "studentID": "s28",
+            "transcription": "sharon",
+            "confidence": 0.289
+        },
+        {
+            "studentID": "s30",
+            "transcription": "thats what you want to do there you go thats what you want to do and then youre going to get out of there and then youre going to get out of there and then youre going to get out of there and then youre going to get out of there and then youre going to get out of there and then youre going to get out of there",
+            "confidence": 0
+        },
+        {
+            "studentID": "s36",
+            "transcription": "fern",
+            "confidence": 0.134
+        },
+        {
+            "studentID": "s40",
+            "transcription": "fireman",
+            "confidence": 0.256
+        },
+        {
+            "studentID": "s41",
+            "transcription": "and friends",
+            "confidence": 0.286
+        },
+        {
+            "studentID": "s44",
+            "transcription": "family",
+            "confidence": 0.25
+        },
+        {
+            "studentID": "s51",
+            "transcription": "fun",
+            "confidence": 0.237
+        }
+    ],
+    "boat": [
+        {
+            "studentID": "s18",
+            "transcription": "four",
+            "confidence": 0.182
+        },
+        {
+            "studentID": "s31",
+            "transcription": "both",
+            "confidence": 0.269
+        }
+    ],
+    "caught": [
+        {
+            "studentID": "s18",
+            "transcription": "hold",
+            "confidence": 0.187
+        },
+        {
+            "studentID": "s24",
+            "transcription": "cough",
+            "confidence": 0.183
+        },
+        {
+            "studentID": "s32",
+            "transcription": "box",
+            "confidence": 0.239
+        },
+        {
+            "studentID": "s33",
+            "transcription": "quote",
+            "confidence": 0.217
+        },
+        {
+            "studentID": "s40",
+            "transcription": "called",
+            "confidence": 0.21
+        },
+        {
+            "studentID": "s41",
+            "transcription": "and count",
+            "confidence": 0.259
+        },
+        {
+            "studentID": "s45",
+            "transcription": "call",
+            "confidence": 0.244
+        },
+        {
+            "studentID": "s47",
+            "transcription": "coat",
+            "confidence": 0.273
+        },
+        {
+            "studentID": "s49",
+            "transcription": "cow",
+            "confidence": 0.116
+        },
+        {
+            "studentID": "s51",
+            "transcription": "caught",
+            "confidence": 0.38
+        }
+    ],
+    "daft": [
+        {
+            "studentID": "s18",
+            "transcription": "draft",
+            "confidence": 0.286
+        },
+        {
+            "studentID": "s43",
+            "transcription": "steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph steph",
+            "confidence": 0
+        },
+        {
+            "studentID": "s51",
+            "transcription": "back",
+            "confidence": 0.251
+        }
+    ],
+    "pool": [
+        {
+            "studentID": "s18",
+            "transcription": "oil",
+            "confidence": 0.096
+        },
+        {
+            "studentID": "s26",
+            "transcription": "boom",
+            "confidence": 0.122
+        },
+        {
+            "studentID": "s35",
+            "transcription": "bold",
+            "confidence": 0.047
+        },
+        {
+            "studentID": "s37",
+            "transcription": "pull",
+            "confidence": 0.262
+        },
+        {
+            "studentID": "s43",
+            "transcription": "pull",
+            "confidence": 0.254
+        }
+    ],
+    "seedy": [
+        {
+            "studentID": "s18",
+            "transcription": "a",
+            "confidence": 0.065
+        },
+        {
+            "studentID": "s42",
+            "transcription": "family",
+            "confidence": 0.177
+        }
+    ],
+    "bee": [
+        {
+            "studentID": "s19",
+            "transcription": "b",
+            "confidence": 0.376
+        },
+        {
+            "studentID": "s35",
+            "transcription": "be",
+            "confidence": 0.28
+        },
+        {
+            "studentID": "s37",
+            "transcription": "b",
+            "confidence": 0.68
+        },
+        {
+            "studentID": "s48",
+            "transcription": "be",
+            "confidence": 0.433
+        }
+    ],
+    "pat": [
+        {
+            "studentID": "s19",
+            "transcription": "thank you",
+            "confidence": 0.219
+        },
+        {
+            "studentID": "s35",
+            "transcription": "thats it",
+            "confidence": 0.211
+        },
+        {
+            "studentID": "s42",
+            "transcription": "thoughts",
+            "confidence": 0.296
+        },
+        {
+            "studentID": "s44",
+            "transcription": "okay bye okay bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye",
+            "confidence": 0
+        },
+        {
+            "studentID": "s49",
+            "transcription": "i just want to thank you for being here thank you i appreciate it it was great i appreciate it it was great to be here thank you it was great to be here it was great to be here thank you that was great thank you thank you it was great to be here thank you thank you mike that was great thank you that was great thank you it was great to be here that was great thank you that was great that was great you did it",
+            "confidence": 0
+        }
+    ],
+    "paws": [
+        {
+            "studentID": "s19",
+            "transcription": "false",
+            "confidence": 0.243
+        },
+        {
+            "studentID": "s22",
+            "transcription": "pause",
+            "confidence": 0.381
+        },
+        {
+            "studentID": "s42",
+            "transcription": "bye",
+            "confidence": 0.284
+        },
+        {
+            "studentID": "s44",
+            "transcription": "pause",
+            "confidence": 0.429
+        },
+        {
+            "studentID": "s48",
+            "transcription": "those",
+            "confidence": 0.14
+        }
+    ],
+    "tied": [
+        {
+            "studentID": "s22",
+            "transcription": "ty",
+            "confidence": 0.269
+        },
+        {
+            "studentID": "s33",
+            "transcription": "tied",
+            "confidence": 0.677
+        },
+        {
+            "studentID": "s34",
+            "transcription": "tied",
+            "confidence": 0.442
+        },
+        {
+            "studentID": "s41",
+            "transcription": "t",
+            "confidence": 0.251
+        },
+        {
+            "studentID": "s42",
+            "transcription": "bye",
+            "confidence": 0.238
+        },
+        {
+            "studentID": "s43",
+            "transcription": "tight",
+            "confidence": 0.297
+        },
+        {
+            "studentID": "s44",
+            "transcription": "bye",
+            "confidence": 0.26
+        },
+        {
+            "studentID": "s45",
+            "transcription": "tie",
+            "confidence": 0.279
+        }
+    ],
+    "plate": [
+        {
+            "studentID": "s24",
+            "transcription": "wait",
+            "confidence": 0.252
+        },
+        {
+            "studentID": "s25",
+            "transcription": "wait",
+            "confidence": 0.191
+        },
+        {
+            "studentID": "s44",
+            "transcription": "late",
+            "confidence": 0.255
+        },
+        {
+            "studentID": "s49",
+            "transcription": "wayne",
+            "confidence": 0.184
+        }
+    ],
+    "pause": [
+        {
+            "studentID": "s25",
+            "transcription": "golden",
+            "confidence": 0.276
+        },
+        {
+            "studentID": "s31",
+            "transcription": "pose",
+            "confidence": 0.203
+        },
+        {
+            "studentID": "s39",
+            "transcription": "pause",
+            "confidence": 0.649
+        },
+        {
+            "studentID": "s43",
+            "transcription": "fows",
+            "confidence": 0.179
+        },
+        {
+            "studentID": "s48",
+            "transcription": "pass",
+            "confidence": 0.261
+        },
+        {
+            "studentID": "s49",
+            "transcription": "the other concerns i think thats why i think thats why i think thats why i think thats why i think thats why i know thats why i think thats why i think thats why i know thats why i know thats why i know thats why i know thats why i",
+            "confidence": 0
+        },
+        {
+            "studentID": "s50",
+            "transcription": "pause",
+            "confidence": 0.613
+        }
+    ],
+    "farther": [
+        {
+            "studentID": "s26",
+            "transcription": "amazing",
+            "confidence": 0.224
+        },
+        {
+            "studentID": "s35",
+            "transcription": "further",
+            "confidence": 0.2
+        },
+        {
+            "studentID": "s42",
+            "transcription": "frustace",
+            "confidence": 0.133
+        },
+        {
+            "studentID": "s44",
+            "transcription": "for a second",
+            "confidence": 0.27
+        }
+    ],
+    "put": [
+        {
+            "studentID": "s30",
+            "transcription": "but",
+            "confidence": 0.24
+        },
+        {
+            "studentID": "s42",
+            "transcription": "book",
+            "confidence": 0.273
+        },
+        {
+            "studentID": "s44",
+            "transcription": "food",
+            "confidence": 0.243
+        },
+        {
+            "studentID": "s48",
+            "transcription": "bye",
+            "confidence": 0.268
+        }
+    ],
+    "pole": [
+        {
+            "studentID": "s31",
+            "transcription": "holy",
+            "confidence": 0.248
+        },
+        {
+            "studentID": "s35",
+            "transcription": "boom",
+            "confidence": 0.269
+        },
+        {
+            "studentID": "s42",
+            "transcription": "bye",
+            "confidence": 0.186
+        },
+        {
+            "studentID": "s44",
+            "transcription": "bye",
+            "confidence": 0.185
+        }
+    ],
+    "buy": [
+        {
+            "studentID": "s33",
+            "transcription": "bye",
+            "confidence": 0.89
+        },
+        {
+            "studentID": "s36",
+            "transcription": "bye",
+            "confidence": 0.461
+        },
+        {
+            "studentID": "s49",
+            "transcription": "boy",
+            "confidence": 0.213
+        }
+    ],
+    "pot": [
+        {
+            "studentID": "s35",
+            "transcription": "put",
+            "confidence": 0.158
+        },
+        {
+            "studentID": "s51",
+            "transcription": "but",
+            "confidence": 0.261
+        }
+    ],
+    "bay": [
+        {
+            "studentID": "s36",
+            "transcription": "bay",
+            "confidence": 0.245
+        },
+        {
+            "studentID": "s37",
+            "transcription": "bay",
+            "confidence": 0.674
+        },
+        {
+            "studentID": "s41",
+            "transcription": "bye",
+            "confidence": 0.168
+        }
+    ],
+    "meat": [
+        {
+            "studentID": "s37",
+            "transcription": "med",
+            "confidence": 0.208
+        },
+        {
+            "studentID": "s39",
+            "transcription": "miss",
+            "confidence": 0.128
+        },
+        {
+            "studentID": "s40",
+            "transcription": "med",
+            "confidence": 0.244
+        },
+        {
+            "studentID": "s44",
+            "transcription": "me",
+            "confidence": 0.279
+        },
+        {
+            "studentID": "s48",
+            "transcription": "mate",
+            "confidence": 0.167
+        },
+        {
+            "studentID": "s51",
+            "transcription": "mid",
+            "confidence": 0.298
+        }
+    ],
+    "hat": [
+        {
+            "studentID": "s39",
+            "transcription": "hat",
+            "confidence": 0.427
+        },
+        {
+            "studentID": "s48",
+            "transcription": "dove",
+            "confidence": 0.021
+        }
+    ],
+    "cot": [
+        {
+            "studentID": "s40",
+            "transcription": "code",
+            "confidence": 0.238
+        },
+        {
+            "studentID": "s43",
+            "transcription": "called",
+            "confidence": 0.298
+        }
+    ],
+    "paul": [
+        {
+            "studentID": "s41",
+            "transcription": "paul",
+            "confidence": 0.283
+        },
+        {
+            "studentID": "s44",
+            "transcription": "paul",
+            "confidence": 0.3
+        },
+        {
+            "studentID": "s47",
+            "transcription": "wow",
+            "confidence": 0.295
+        },
+        {
+            "studentID": "s49",
+            "transcription": "talent",
+            "confidence": 0.135
+        }
+    ],
+    "mate": [
+        {
+            "studentID": "s42",
+            "transcription": "maine",
+            "confidence": 0.264
+        },
+        {
+            "studentID": "s44",
+            "transcription": "may",
+            "confidence": 0.204
+        },
+        {
+            "studentID": "s49",
+            "transcription": "mark",
+            "confidence": 0.173
+        }
+    ],
+    "meet": [
+        {
+            "studentID": "s44",
+            "transcription": "me",
+            "confidence": 0.172
+        }
+    ],
+    "weight": [
+        {
+            "studentID": "s44",
+            "transcription": "wait",
+            "confidence": 0.333
+        },
+        {
+            "studentID": "s49",
+            "transcription": "why",
+            "confidence": 0.295
+        }
+    ],
+    "knows": [
+        {
+            "studentID": "s48",
+            "transcription": "nose",
+            "confidence": 0.15
+        },
+        {
+            "studentID": "s49",
+            "transcription": "no okay okay great thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you thank you",
+            "confidence": 0
+        },
+        {
+            "studentID": "s50",
+            "transcription": "nose",
+            "confidence": 0.69
+        }
+    ],
+    "doll": [
+        {
+            "studentID": "s50",
+            "transcription": "daw",
+            "confidence": 0.217
+        }
+    ]
+}

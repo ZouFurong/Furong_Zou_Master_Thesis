@@ -1,0 +1,267 @@
+{
+    "bout": {
+        "False Positives": 17,
+        "False Negatives": 12,
+        "Total": 29
+    },
+    "doll": {
+        "False Positives": 25,
+        "False Negatives": 1,
+        "Total": 26
+    },
+    "pot": {
+        "False Positives": 23,
+        "False Negatives": 2,
+        "Total": 25
+    },
+    "fur": {
+        "False Positives": 11,
+        "False Negatives": 14,
+        "Total": 25
+    },
+    "half": {
+        "False Positives": 24,
+        "False Negatives": 0,
+        "Total": 24
+    },
+    "paw": {
+        "False Positives": 13,
+        "False Negatives": 10,
+        "Total": 23
+    },
+    "pool": {
+        "False Positives": 18,
+        "False Negatives": 5,
+        "Total": 23
+    },
+    "pull": {
+        "False Positives": 6,
+        "False Negatives": 17,
+        "Total": 23
+    },
+    "pole": {
+        "False Positives": 18,
+        "False Negatives": 4,
+        "Total": 22
+    },
+    "pore": {
+        "False Positives": 15,
+        "False Negatives": 7,
+        "Total": 22
+    },
+    "seedy": {
+        "False Positives": 20,
+        "False Negatives": 2,
+        "Total": 22
+    },
+    "fir": {
+        "False Positives": 13,
+        "False Negatives": 9,
+        "Total": 22
+    },
+    "fern": {
+        "False Positives": 12,
+        "False Negatives": 10,
+        "Total": 22
+    },
+    "bird": {
+        "False Positives": 11,
+        "False Negatives": 11,
+        "Total": 22
+    },
+    "tide": {
+        "False Positives": 14,
+        "False Negatives": 7,
+        "Total": 21
+    },
+    "tied": {
+        "False Positives": 13,
+        "False Negatives": 8,
+        "Total": 21
+    },
+    "bay": {
+        "False Positives": 18,
+        "False Negatives": 3,
+        "Total": 21
+    },
+    "daft": {
+        "False Positives": 18,
+        "False Negatives": 3,
+        "Total": 21
+    },
+    "pit": {
+        "False Positives": 9,
+        "False Negatives": 12,
+        "Total": 21
+    },
+    "cot": {
+        "False Positives": 18,
+        "False Negatives": 2,
+        "Total": 20
+    },
+    "caught": {
+        "False Positives": 10,
+        "False Negatives": 10,
+        "Total": 20
+    },
+    "putt": {
+        "False Positives": 9,
+        "False Negatives": 11,
+        "Total": 20
+    },
+    "pet": {
+        "False Positives": 11,
+        "False Negatives": 7,
+        "Total": 18
+    },
+    "boat": {
+        "False Positives": 16,
+        "False Negatives": 2,
+        "Total": 18
+    },
+    "pat": {
+        "False Positives": 13,
+        "False Negatives": 5,
+        "Total": 18
+    },
+    "bard": {
+        "False Positives": 13,
+        "False Negatives": 5,
+        "Total": 18
+    },
+    "pour": {
+        "False Positives": 13,
+        "False Negatives": 5,
+        "Total": 18
+    },
+    "pause": {
+        "False Positives": 10,
+        "False Negatives": 7,
+        "Total": 17
+    },
+    "dance": {
+        "False Positives": 17,
+        "False Negatives": 0,
+        "Total": 17
+    },
+    "board": {
+        "False Positives": 7,
+        "False Negatives": 10,
+        "Total": 17
+    },
+    "beer": {
+        "False Positives": 11,
+        "False Negatives": 6,
+        "Total": 17
+    },
+    "bear": {
+        "False Positives": 5,
+        "False Negatives": 11,
+        "Total": 16
+    },
+    "boot": {
+        "False Positives": 11,
+        "False Negatives": 5,
+        "Total": 16
+    },
+    "hat": {
+        "False Positives": 14,
+        "False Negatives": 2,
+        "Total": 16
+    },
+    "farther": {
+        "False Positives": 12,
+        "False Negatives": 4,
+        "Total": 16
+    },
+    "poor": {
+        "False Positives": 9,
+        "False Negatives": 7,
+        "Total": 16
+    },
+    "boy": {
+        "False Positives": 15,
+        "False Negatives": 0,
+        "Total": 15
+    },
+    "meat": {
+        "False Positives": 8,
+        "False Negatives": 6,
+        "Total": 14
+    },
+    "paul": {
+        "False Positives": 10,
+        "False Negatives": 4,
+        "Total": 14
+    },
+    "fair": {
+        "False Positives": 7,
+        "False Negatives": 7,
+        "Total": 14
+    },
+    "paws": {
+        "False Positives": 9,
+        "False Negatives": 5,
+        "Total": 14
+    },
+    "put": {
+        "False Positives": 9,
+        "False Negatives": 4,
+        "Total": 13
+    },
+    "bee": {
+        "False Positives": 9,
+        "False Negatives": 4,
+        "Total": 13
+    },
+    "mate": {
+        "False Positives": 9,
+        "False Negatives": 3,
+        "Total": 12
+    },
+    "city": {
+        "False Positives": 5,
+        "False Negatives": 7,
+        "Total": 12
+    },
+    "plate": {
+        "False Positives": 8,
+        "False Negatives": 4,
+        "Total": 12
+    },
+    "meet": {
+        "False Positives": 8,
+        "False Negatives": 1,
+        "Total": 9
+    },
+    "knows": {
+        "False Positives": 6,
+        "False Negatives": 3,
+        "Total": 9
+    },
+    "weight": {
+        "False Positives": 5,
+        "False Negatives": 2,
+        "Total": 7
+    },
+    "father": {
+        "False Positives": 2,
+        "False Negatives": 3,
+        "Total": 5
+    },
+    "nose": {
+        "False Positives": 4,
+        "False Negatives": 0,
+        "Total": 4
+    },
+    "buy": {
+        "False Positives": 1,
+        "False Negatives": 3,
+        "Total": 4
+    },
+    "meet ": {
+        "False Positives": 1,
+        "False Negatives": 0,
+        "Total": 1
+    }
+}
