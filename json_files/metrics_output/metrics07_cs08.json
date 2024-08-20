@@ -1,0 +1,30 @@
+{
+    "class intelligible": {
+        "whisper_judge": {
+            "precision_intelligible": 0.686,
+            "recall_intelligible": 0.983,
+            "f1_intelligible": 0.808,
+            "f0.5_intelligible": 0.73
+        },
+        "whisper_judge_phonetic": {
+            "precision_intelligible": 0.689,
+            "recall_intelligible": 1.0,
+            "f1_intelligible": 0.816,
+            "f0.5_intelligible": 0.735
+        }
+    },
+    "class unintelligible": {
+        "whisper_judge": {
+            "precision_unintelligible": 0.4,
+            "recall_unintelligible": 0.025,
+            "f1_unintelligible": 0.046,
+            "f0.5_unintelligible": 0.099
+        },
+        "whisper_judge_phonetic": {
+            "precision_unintelligible": 1.0,
+            "recall_unintelligible": 0.025,
+            "f1_unintelligible": 0.048,
+            "f0.5_unintelligible": 0.112
+        }
+    }
+}
