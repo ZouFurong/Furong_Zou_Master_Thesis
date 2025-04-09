@@ -5,17 +5,17 @@ This repository is for the purpose of uploading code and outputs related to the 
 
 This repository contains the following folders:
 
-- code: a folder that contains the code for the thesis project
+- **code**: a folder that contains the code for the thesis project
   
-- confusion_matrix: a folder that contains all the confusion matrices for both dev and test sets across various temperature settings and confidence thresholds
+- **confusion_matrix**: a folder that contains all the confusion matrices for both dev and test sets across various temperature settings and confidence thresholds
   
-- gold_data: a folder that contains the original gold data made by the expert and the preprocessed ones, as well as the Word List (the true transcriptions)
+- **gold_data**: a folder that contains the original gold data made by the expert and the preprocessed ones, as well as the Word List (the true transcriptions)
   
    ***gold_data_dev.xlsx*** and ***gold_test_data_with_features.xlsx*** are the final Excel files that can be used to check the gold labels for the dev and test data
   
-- graph: a folder that contains the graphs for visualizing the outputs, which can be obtained by running the notebook in the **code** folder
+- **graph**: a folder that contains the graphs for visualizing the outputs, which can be obtained by running the notebook in the **code** folder
   
-- json_files: a folder that stores all the outputs in several subfolders and a json file:
+- **json_files**: a folder that stores all the outputs in several subfolders and a json file:
   - metrics_output: contains the metrics results of the model under different settings (e.g., *metrics01_cs03.json* means the Temperature is set to 0.1 with a confidence threshold 0.3)
   - test: contains all kinds of json files of the test set
   
